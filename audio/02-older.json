@@ -1,0 +1,45 @@
+{
+  "request": {
+    "text": "You always did.",
+    "voice": "kokoro-am_michael",
+    "speed": 0.82,
+    "delivery": "gentle"
+  },
+  "mouthCues": [
+    {
+      "start": 0,
+      "end": 0.04,
+      "value": "X"
+    },
+    {
+      "start": 0.04,
+      "end": 0.1,
+      "value": "B"
+    },
+    {
+      "start": 0.1,
+      "end": 0.36,
+      "value": "F"
+    },
+    {
+      "start": 0.36,
+      "end": 0.71,
+      "value": "E"
+    },
+    {
+      "start": 0.71,
+      "end": 0.78,
+      "value": "F"
+    },
+    {
+      "start": 0.78,
+      "end": 1.62,
+      "value": "B"
+    },
+    {
+      "start": 1.62,
+      "end": 1.66,
+      "value": "X"
+    }
+  ]
+}

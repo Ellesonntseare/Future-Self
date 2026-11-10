@@ -1,0 +1,105 @@
+{
+  "request": {
+    "text": "Not the way you planned.",
+    "voice": "kokoro-am_michael",
+    "speed": 0.82,
+    "delivery": "gentle"
+  },
+  "mouthCues": [
+    {
+      "start": 0,
+      "end": 0.09,
+      "value": "X"
+    },
+    {
+      "start": 0.09,
+      "end": 0.14,
+      "value": "B"
+    },
+    {
+      "start": 0.14,
+      "end": 0.26,
+      "value": "C"
+    },
+    {
+      "start": 0.26,
+      "end": 0.36,
+      "value": "D"
+    },
+    {
+      "start": 0.36,
+      "end": 0.4,
+      "value": "C"
+    },
+    {
+      "start": 0.4,
+      "end": 0.48,
+      "value": "A"
+    },
+    {
+      "start": 0.48,
+      "end": 0.76,
+      "value": "F"
+    },
+    {
+      "start": 0.76,
+      "end": 0.83,
+      "value": "C"
+    },
+    {
+      "start": 0.83,
+      "end": 0.9,
+      "value": "B"
+    },
+    {
+      "start": 0.9,
+      "end": 1.11,
+      "value": "F"
+    },
+    {
+      "start": 1.11,
+      "end": 1.26,
+      "value": "A"
+    },
+    {
+      "start": 1.26,
+      "end": 1.33,
+      "value": "B"
+    },
+    {
+      "start": 1.33,
+      "end": 1.4,
+      "value": "E"
+    },
+    {
+      "start": 1.4,
+      "end": 1.47,
+      "value": "B"
+    },
+    {
+      "start": 1.47,
+      "end": 1.54,
+      "value": "C"
+    },
+    {
+      "start": 1.54,
+      "end": 1.61,
+      "value": "B"
+    },
+    {
+      "start": 1.61,
+      "end": 1.68,
+      "value": "C"
+    },
+    {
+      "start": 1.68,
+      "end": 1.96,
+      "value": "B"
+    },
+    {
+      "start": 1.96,
+      "end": 2.02,
+      "value": "X"
+    }
+  ]
+}

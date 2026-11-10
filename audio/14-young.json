@@ -1,0 +1,70 @@
+{
+  "request": {
+    "text": "And if I fail?",
+    "voice": "kokoro-am_fenrir",
+    "speed": 0.8,
+    "delivery": "natural"
+  },
+  "mouthCues": [
+    {
+      "start": 0,
+      "end": 0.05,
+      "value": "B"
+    },
+    {
+      "start": 0.05,
+      "end": 0.1,
+      "value": "C"
+    },
+    {
+      "start": 0.1,
+      "end": 0.24,
+      "value": "B"
+    },
+    {
+      "start": 0.24,
+      "end": 0.31,
+      "value": "G"
+    },
+    {
+      "start": 0.31,
+      "end": 0.38,
+      "value": "C"
+    },
+    {
+      "start": 0.38,
+      "end": 0.45,
+      "value": "B"
+    },
+    {
+      "start": 0.45,
+      "end": 0.59,
+      "value": "G"
+    },
+    {
+      "start": 0.59,
+      "end": 0.8,
+      "value": "B"
+    },
+    {
+      "start": 0.8,
+      "end": 0.87,
+      "value": "E"
+    },
+    {
+      "start": 0.87,
+      "end": 1.08,
+      "value": "F"
+    },
+    {
+      "start": 1.08,
+      "end": 1.15,
+      "value": "B"
+    },
+    {
+      "start": 1.15,
+      "end": 1.19,
+      "value": "X"
+    }
+  ]
+}

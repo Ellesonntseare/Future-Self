@@ -1,0 +1,85 @@
+{
+  "request": {
+    "text": "Better than anyone.",
+    "voice": "kokoro-am_michael",
+    "speed": 0.82,
+    "delivery": "gentle"
+  },
+  "mouthCues": [
+    {
+      "start": 0,
+      "end": 0.03,
+      "value": "X"
+    },
+    {
+      "start": 0.03,
+      "end": 0.2,
+      "value": "B"
+    },
+    {
+      "start": 0.2,
+      "end": 0.34,
+      "value": "C"
+    },
+    {
+      "start": 0.34,
+      "end": 0.41,
+      "value": "B"
+    },
+    {
+      "start": 0.41,
+      "end": 0.62,
+      "value": "E"
+    },
+    {
+      "start": 0.62,
+      "end": 0.69,
+      "value": "B"
+    },
+    {
+      "start": 0.69,
+      "end": 0.76,
+      "value": "C"
+    },
+    {
+      "start": 0.76,
+      "end": 0.84,
+      "value": "A"
+    },
+    {
+      "start": 0.84,
+      "end": 1.09,
+      "value": "B"
+    },
+    {
+      "start": 1.09,
+      "end": 1.17,
+      "value": "A"
+    },
+    {
+      "start": 1.17,
+      "end": 1.32,
+      "value": "B"
+    },
+    {
+      "start": 1.32,
+      "end": 1.53,
+      "value": "E"
+    },
+    {
+      "start": 1.53,
+      "end": 1.66,
+      "value": "A"
+    },
+    {
+      "start": 1.66,
+      "end": 1.74,
+      "value": "B"
+    },
+    {
+      "start": 1.74,
+      "end": 1.79,
+      "value": "X"
+    }
+  ]
+}

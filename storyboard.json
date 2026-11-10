@@ -1,0 +1,124 @@
+{
+  "title": "A Conversation with My Future Self",
+  "duration": 60,
+  "style": "Realistic illustrated; soft cinematic lighting; smooth natural movement",
+  "status": "Working draft",
+  "scenes": [
+    {
+      "title": "The unfinished page",
+      "start": 0,
+      "end": 8,
+      "visual": "Late evening. A young creator sits with an unfinished notebook. A quiet breath before speaking.",
+      "lines": [
+        [
+          "Young Alex",
+          "I thought I'd be further by now."
+        ]
+      ]
+    },
+    {
+      "title": "A familiar stranger",
+      "start": 8,
+      "end": 16,
+      "visual": "An older version appears nearby. Warm light gently enters the room.",
+      "lines": [
+        [
+          "Older Alex",
+          "You always did."
+        ],
+        [
+          "Young Alex",
+          "Do I know you?"
+        ],
+        [
+          "Older Alex",
+          "Better than anyone."
+        ]
+      ]
+    },
+    {
+      "title": "Recognition",
+      "start": 16,
+      "end": 24,
+      "visual": "A close look at the same eyes, familiar clothes and greying hair. Surprise softens into curiosity.",
+      "lines": [
+        [
+          "Young Alex",
+          "You're... me?"
+        ],
+        [
+          "Older Alex",
+          "With a few more grey hairs."
+        ],
+        [
+          "Young Alex",
+          "Then tell me. Does it work out?"
+        ]
+      ]
+    },
+    {
+      "title": "An honest answer",
+      "start": 24,
+      "end": 33,
+      "visual": "The older self gives a small, honest smile. No grand promise.",
+      "lines": [
+        [
+          "Older Alex",
+          "Not the way you planned."
+        ],
+        [
+          "Young Alex",
+          "So why keep going?"
+        ],
+        [
+          "Older Alex",
+          "Do you remember why you started?"
+        ]
+      ]
+    },
+    {
+      "title": "Remembering",
+      "start": 33,
+      "end": 43,
+      "visual": "The younger self looks toward the unfinished page. Their expression begins to lift.",
+      "lines": [
+        [
+          "Young Alex",
+          "I wanted to make something that mattered."
+        ],
+        [
+          "Older Alex",
+          "That part of you is still here."
+        ]
+      ]
+    },
+    {
+      "title": "One small thing",
+      "start": 43,
+      "end": 55,
+      "visual": "A gentle hand gesture toward the notebook. The younger self turns back to their work.",
+      "lines": [
+        [
+          "Older Alex",
+          "Start with one small thing. It doesn't have to be perfect. It just has to be yours."
+        ]
+      ]
+    },
+    {
+      "title": "We try again",
+      "start": 55,
+      "end": 60,
+      "visual": "A shared smile. The younger self begins a new line. Hold the hopeful final frame.",
+      "lines": [
+        [
+          "Young Alex",
+          "And if I fail?"
+        ],
+        [
+          "Older Alex",
+          "Then we try again."
+        ]
+      ]
+    }
+  ]
+}

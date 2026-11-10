@@ -1,0 +1,50 @@
+{
+  "request": {
+    "text": "Do I know you?",
+    "voice": "kokoro-am_fenrir",
+    "speed": 0.8,
+    "delivery": "natural"
+  },
+  "mouthCues": [
+    {
+      "start": 0,
+      "end": 0.12,
+      "value": "F"
+    },
+    {
+      "start": 0.12,
+      "end": 0.17,
+      "value": "E"
+    },
+    {
+      "start": 0.17,
+      "end": 0.24,
+      "value": "H"
+    },
+    {
+      "start": 0.24,
+      "end": 0.31,
+      "value": "B"
+    },
+    {
+      "start": 0.31,
+      "end": 0.52,
+      "value": "E"
+    },
+    {
+      "start": 0.52,
+      "end": 1.01,
+      "value": "F"
+    },
+    {
+      "start": 1.01,
+      "end": 1.08,
+      "value": "B"
+    },
+    {
+      "start": 1.08,
+      "end": 1.1,
+      "value": "X"
+    }
+  ]
+}
